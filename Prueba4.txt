@@ -1,1 +1,1 @@
-Esta es otra prueba para descarga con git pull 20250725. Saludos. Recibido. vuelto a se modificado
+Esta es otra prueba para descarga con git pull 20250725. Saludos. Recibido. vuelto a ser modificado
